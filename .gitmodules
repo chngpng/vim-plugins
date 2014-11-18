@@ -1,6 +1,6 @@
 [submodule "bundle/Conque-GDB"]
 	path = bundle/vim-sensible
-  url = https://github.com/vim-scripts/Conque-GDB.git
+	url = https://github.com/vim-scripts/Conque-GDB.git
 [submodule "bundle/vim-sensible"]
 	path = bundle/vim-sensible
 	url = https://github.com/tpope/vim-sensible.git
