@@ -56,5 +56,5 @@
 	path = bundle/powerline
 	url = https://github.com/Lokaltog/powerline.git
 [submodule "bundle/emmet-vim"]
-	path = bundle/emmet-vimt
+	path = bundle/emmet-vim
 	url = https://github.com/mattn/emmet-vim.git
