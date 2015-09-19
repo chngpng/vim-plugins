@@ -49,8 +49,12 @@ To update the code of every plugin:
     
 If a new submodule (plugin) is added to this repository since the time you cloned it you must:
 
-    git submodule update --init
-    
+Adding plugins
+================
+git submodule add http://github.com/tpope/vim-fugitive.git bundle/fugitive
+git add .
+git commit -m "Install Fugitive.vim bundle as a submodule."
+
 Collaboration
 =============
 
